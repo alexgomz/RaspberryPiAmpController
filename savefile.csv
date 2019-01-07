@@ -1,0 +1,6 @@
+name,volume,gain,treble,middle,bass
+Rock,10,9,9,5,5
+Acoustic,8,0,5,5,5
+Minimum,1,1,1,1,1
+Maximum,10,10,10,10,10
+Test,7,4,4,5,6
